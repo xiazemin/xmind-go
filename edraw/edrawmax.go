@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"xmind-go/xmind"
+	"github.com/xiazemin/xmind-go/xmind"
 )
 
 /*

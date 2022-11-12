@@ -1,8 +1,8 @@
 package xmindgo
 
 import (
-	"xmind-go/xmind"
-	"xmind-go/xxml"
+	"github.com/xiazemin/xmind-go/xmind"
+	"github.com/xiazemin/xmind-go/xxml"
 )
 
 /**

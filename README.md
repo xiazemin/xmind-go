@@ -10,3 +10,7 @@ data := `[{"node_id":"1","topic_content":"main topic"},
 这里定义 node_id 表示节点id, topic_content 表示主题内容, parent_id 表示父节点id
 
 支持json格式和xml格式，兼容高版本的xmind，常用版本的xmind都能打开
+使用
+```
+go install github.com/xiazemin/xmind-go
+```

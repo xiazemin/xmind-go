@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"xmind-go/xmind"
+	"github.com/xiazemin/xmind-go/xmind"
 )
 
 type XmindNode struct {

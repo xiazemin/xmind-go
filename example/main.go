@@ -1,8 +1,8 @@
 package main
 
 import (
-	xmlXmind "xmind-go"
-	"xmind-go/xjson"
+	xmlXmind "github.com/xiazemin/xmind-go"
+	"github.com/xiazemin/xmind-go/xjson"
 )
 
 func main() {
